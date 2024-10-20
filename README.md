@@ -4,7 +4,11 @@ I'm a Master's student at the University of Windsor, pursuing a degree in Comput
 I also have expertise in Machine Learning and Data Analysis, applying these skills to my ongoing research on GitHub issue management and code review tasks.
 
 ## 🛠 Skills & Tools Languages: 
-Java, Python, JavaScript, C#, Dart, SQL, HTML, CSS Frameworks & Tools: .NET Core, Django, React, Selenium, WebdriverIO, Robot Framework Databases: MySQL, MSSQL, PostgreSQL Cloud & CI/CD: Jenkins, Azure, Docker Version Control: Git, GitHub, Bitbucket Machine Learning: Logistic Regression, Random Forest, XGBoost, Ensemble Learning 💼 Experience JavaScript Python Java C++ PHP OpenGL HTML5 CSS3 Bootstrap MySQL MSSQL Android GitHub BitBucket Latex Linux MongoDB React.js Jira Confluence
+Lnagugaes: Java, Python, JavaScript, C#, Dart, SQL, HTML, CSS 
+Frameworks & Tools: .NET Core, Django, React 
+Databases: MySQL, MSSQL, PostgreSQL 
+Cloud & CI/CD: Azure 
+Version Control: Git, GitHub, Bitbucket 
 
 📫 Let's Connect! 
 LinkedIn: [Rumman Ali ](https://www.linkedin.com/in/rumman-ali-5a08b0151/)
