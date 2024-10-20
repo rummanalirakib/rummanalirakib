@@ -15,8 +15,10 @@ Cloud & CI/CD: Azure
 Version Control: Git, GitHub, Bitbucket  
 
 
-📫 Let's Connect! 
-LinkedIn: [Rumman Ali ](https://www.linkedin.com/in/rumman-ali-5a08b0151/)
-Email: rummanalirakib@example.com 
+📫 Let's Connect!  
+
+LinkedIn: [Rumman Ali ](https://www.linkedin.com/in/rumman-ali-5a08b0151/)  
+
+Email: rummanalirakib@example.com  
 
 Feel free to explore my work and reach out if you'd like to collaborate or discuss any opportunities! 😊
