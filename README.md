@@ -4,7 +4,7 @@ I'm a Master's student at the University of Windsor, pursuing a degree in Comput
 I also have expertise in Machine Learning and Data Analysis, applying these skills to my ongoing research on GitHub issue management and code review tasks.
 
 ## 🛠 Skills & Tools Languages: 
-Programming Lanagugaes: C, C++, Java, Python, JavaScript, C#, HTML, CSS  
+Programming Languages: C, C++, Java, Python, JavaScript, C#, HTML, CSS  
 
 Frameworks & Tools: .NET Core, Django, React  
 
